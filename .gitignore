@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.wrangler/
+.astro/
+.env*
+.dev.vars*
+*.pem
+*.key
+.DS_Store
